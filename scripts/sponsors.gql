@@ -1,0 +1,20 @@
+query {
+  user(login: "octref") {
+    bio
+    sponsorshipsAsMaintainer(first: 100) {
+      totalCount
+      edges {
+        node {
+          sponsorEntity {
+            ... on User {
+              login
+              name
+              avatarUrl
+              location
+            }
+          }
+        }
+      }
+    }
+  }
+}
