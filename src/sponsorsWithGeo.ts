@@ -194,6 +194,16 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
+    "login": "cuzox",
+    "name": "Caleb Viola",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3461464?u=cca21dc67ab4bd004a536c3cbec5ee540a8559e1&v=4",
+    "location": "Kalamazo, Michigan",
+    "geoCode": [
+      -85.5872,
+      42.2917
+    ]
+  },
+  {
     "login": "bencodezen",
     "name": "Ben Hong",
     "avatarUrl": "https://avatars3.githubusercontent.com/u/4836334?u=100558c04272f2519ae594a509fd4f5ab7705746&v=4",
