@@ -134,6 +134,16 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
+    "login": "ux-engineer",
+    "name": "Janne Kurkinen",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/1790545?u=b558b242c49e35f4765df516406f4d3fc806c4cc&v=4",
+    "location": "Finland",
+    "geoCode": [
+      26.199539005192,
+      62.7777539652943
+    ]
+  },
+  {
     "login": "HerrBertling",
     "name": "Markus Siering",
     "avatarUrl": "https://avatars2.githubusercontent.com/u/1827373?u=e00a9aee48ef388385447974d86777260bd46e3c&v=4",
@@ -209,8 +219,8 @@ export const sponsorsData: Sponsor[] = [
     "avatarUrl": "https://avatars3.githubusercontent.com/u/4836334?u=100558c04272f2519ae594a509fd4f5ab7705746&v=4",
     "location": "DC Metro Area",
     "geoCode": [
-      5.428509,
-      43.335913
+      -77.0366,
+      38.895
     ]
   },
   {
