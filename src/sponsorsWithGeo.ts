@@ -28,16 +28,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "PatrickKennedy",
-    "name": "Patrick Kennedy",
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/80598?u=4257993fd857065a36582640d297adb5312a0b36&v=4",
-    "location": "Portland, OR, USA",
-    "geoCode": [
-      -122.6742,
-      45.5202
-    ]
-  },
-  {
     "login": "yyx990803",
     "name": "Evan You",
     "avatarUrl": "https://avatars3.githubusercontent.com/u/499550?u=de41ec9325e8a92e281b96a1514a0fd1cd81ad4a&v=4",
