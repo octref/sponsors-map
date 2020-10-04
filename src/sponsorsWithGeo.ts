@@ -224,16 +224,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "oswaldofreitas",
-    "name": "Oswaldo Freitas",
-    "avatarUrl": "https://avatars2.githubusercontent.com/u/10772835?u=af6fd2e44a6f77aa74f83b1ca510397883efd8ca&v=4",
-    "location": "Brazil",
-    "geoCode": [
-      -51.6197890205486,
-      -9.58890301712257
-    ]
-  },
-  {
     "login": "AngeloCicero",
     "name": "Angelo Cicero",
     "avatarUrl": "https://avatars2.githubusercontent.com/u/10821534?u=188f2e5cdbe9a1d40483eddd34934322e1b6b88b&v=4",
