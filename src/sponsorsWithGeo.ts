@@ -310,5 +310,11 @@ export const sponsorsData: Sponsor[] = [
     "name": "CodeStream",
     "avatarUrl": "https://avatars3.githubusercontent.com/u/65361387?u=862abd06745ea25690cd4961fa32bac4edc84361&v=4",
     "location": null
+  },
+  {
+    "login": "CodeSandboxTeam",
+    "name": null,
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/65611025?v=4",
+    "location": null
   }
 ]
