@@ -194,6 +194,12 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
+    "login": "KrakerXyz",
+    "name": null,
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/3339029?v=4",
+    "location": null
+  },
+  {
     "login": "cuzox",
     "name": "Caleb Viola",
     "avatarUrl": "https://avatars1.githubusercontent.com/u/3461464?u=cca21dc67ab4bd004a536c3cbec5ee540a8559e1&v=4",
