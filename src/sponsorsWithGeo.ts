@@ -318,6 +318,16 @@ export const sponsorsData: Sponsor[] = [
     "location": null
   },
   {
+    "login": "kn0wn",
+    "name": "Josh King",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/59017897?u=b41236f1956cf49ec87b219492fff07a020f293e&v=4",
+    "location": "United Kingdom",
+    "geoCode": [
+      -2.36966957036279,
+      54.2379333607472
+    ]
+  },
+  {
     "login": "Team-CodeStream",
     "name": "CodeStream",
     "avatarUrl": "https://avatars3.githubusercontent.com/u/65361387?u=862abd06745ea25690cd4961fa32bac4edc84361&v=4",
