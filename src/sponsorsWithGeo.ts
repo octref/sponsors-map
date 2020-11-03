@@ -292,16 +292,6 @@ export const sponsorsData: Sponsor[] = [
     "location": null
   },
   {
-    "login": "Sammuel09",
-    "name": "Samuel Adeniran",
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/28958299?u=5b12acd5c05f85a9fc99ca542b797c46b7eeb498&v=4",
-    "location": "Lagos, Nigeria",
-    "geoCode": [
-      3.4,
-      6.45
-    ]
-  },
-  {
     "login": "misolori",
     "name": "Miguel Solorio",
     "avatarUrl": "https://avatars1.githubusercontent.com/u/35271042?u=8f024c5f095071ca9493635cc7ddcd171adf5be5&v=4",
