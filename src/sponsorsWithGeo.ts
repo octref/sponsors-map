@@ -18,6 +18,16 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
+    "login": "orta",
+    "name": "Orta Therox",
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/49038?u=0b9ac5bf42a8ea2543a05191e150e0213456744e&v=4",
+    "location": "Huddersfield / NYC, US",
+    "geoCode": [
+      -73.993015,
+      40.74798
+    ]
+  },
+  {
     "login": "kazupon",
     "name": "kazuya kawaguchi",
     "avatarUrl": "https://avatars3.githubusercontent.com/u/72989?u=d333c3048e3d6f8ed2a476a3564dba1fa5288b86&v=4",
