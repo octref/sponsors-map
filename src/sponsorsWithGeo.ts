@@ -194,6 +194,16 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
+    "login": "aussieboi",
+    "name": "aussieboi",
+    "avatarUrl": "https://avatars1.githubusercontent.com/u/2497323?u=189c706b73e0495b56688589447d3e46b8045f73&v=4",
+    "location": "Croatia",
+    "geoCode": [
+      16.6791068850861,
+      45.6649521968376
+    ]
+  },
+  {
     "login": "joshua1988",
     "name": "Captain Pangyo",
     "avatarUrl": "https://avatars2.githubusercontent.com/u/3272748?u=25f925a2c4873f3a10512f022c96965bff780ce2&v=4",
@@ -226,6 +236,16 @@ export const sponsorsData: Sponsor[] = [
     "location": null
   },
   {
+    "login": "dmorosinotto",
+    "name": "Daniele Morosinotto",
+    "avatarUrl": "https://avatars2.githubusercontent.com/u/3982050?u=6dad862010effda99bc63dfb4aea73ad22962917&v=4",
+    "location": "Italy",
+    "geoCode": [
+      12.6463610364431,
+      42.5041539170675
+    ]
+  },
+  {
     "login": "bencodezen",
     "name": "Ben Hong",
     "avatarUrl": "https://avatars3.githubusercontent.com/u/4836334?u=100558c04272f2519ae594a509fd4f5ab7705746&v=4",
@@ -233,6 +253,16 @@ export const sponsorsData: Sponsor[] = [
     "geoCode": [
       -77.0366,
       38.895
+    ]
+  },
+  {
+    "login": "poblouin",
+    "name": "Pierre-Olivier Blouin",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/7467410?u=0a52b420ebc39401d37f3200c73a041cf9faa376&v=4",
+    "location": "Montreal, Canada",
+    "geoCode": [
+      -73.554,
+      45.5088
     ]
   },
   {
@@ -274,6 +304,12 @@ export const sponsorsData: Sponsor[] = [
       -77.0366,
       38.895
     ]
+  },
+  {
+    "login": "elena-cz",
+    "name": null,
+    "avatarUrl": "https://avatars3.githubusercontent.com/u/14916431?u=0932140f2f3abcf05e95db8e2c6943e48144bbcb&v=4",
+    "location": null
   },
   {
     "login": "LukeJS",
