@@ -351,7 +351,11 @@ export const sponsorsData: Sponsor[] = [
     "login": "paul-a-byford",
     "name": null,
     "avatarUrl": "https://avatars3.githubusercontent.com/u/46022174?v=4",
-    "location": null
+    "location": "United Kingdom",
+    "geoCode": [
+      -2.36966957036279,
+      54.2379333607472
+    ]
   },
   {
     "login": "kn0wn",
