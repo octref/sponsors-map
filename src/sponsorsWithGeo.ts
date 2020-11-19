@@ -78,12 +78,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "asafyish",
-    "name": "Asaf Yishai",
-    "avatarUrl": "https://avatars0.githubusercontent.com/u/1331750?u=26286e14e91b8ac0540caa3343a9312cf5aa7502&v=4",
-    "location": null
-  },
-  {
     "login": "adrianthedev",
     "name": "Adrian Marin",
     "avatarUrl": "https://avatars1.githubusercontent.com/u/1334409?v=4",
