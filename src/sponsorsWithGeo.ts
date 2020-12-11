@@ -309,6 +309,7 @@ export const sponsorsData: Sponsor[] = [
       83.6625
     ]
   },
+  {},
   {
     "login": "jackkoppa",
     "name": "Jack Koppa",
