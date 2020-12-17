@@ -168,16 +168,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "stevehurcombe",
-    "name": "Steve Hurcombe",
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/2033186?v=4",
-    "location": "UK",
-    "geoCode": [
-      -2.36966957036279,
-      54.2379333607472
-    ]
-  },
-  {
     "login": "ktsn",
     "name": "Katashin",
     "avatarUrl": "https://avatars0.githubusercontent.com/u/2194624?v=4",
@@ -257,16 +247,6 @@ export const sponsorsData: Sponsor[] = [
     "geoCode": [
       -77.0366,
       38.895
-    ]
-  },
-  {
-    "login": "jillztom",
-    "name": null,
-    "avatarUrl": "https://avatars1.githubusercontent.com/u/6960750?u=1737d2b6bc1d96e7bab2ac285eda60bb65403bb1&v=4",
-    "location": "Toronto, Canada",
-    "geoCode": [
-      -79.3849,
-      43.6529
     ]
   },
   {
