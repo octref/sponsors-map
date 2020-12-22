@@ -250,6 +250,16 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
+    "login": "cigan1",
+    "name": "Yoni Rybinski",
+    "avatarUrl": "https://avatars0.githubusercontent.com/u/6900106?u=17f0607f570cb970c3833d9b7bea3387e6cf2d7b&v=4",
+    "location": "Southampton, PA",
+    "geoCode": [
+      -75.0438,
+      40.1743
+    ]
+  },
+  {
     "login": "poblouin",
     "name": "Pierre-Olivier Blouin",
     "avatarUrl": "https://avatars0.githubusercontent.com/u/7467410?u=0a52b420ebc39401d37f3200c73a041cf9faa376&v=4",
