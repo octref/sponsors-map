@@ -342,6 +342,7 @@ export const sponsorsData: Sponsor[] = [
     "avatarUrl": "https://avatars2.githubusercontent.com/u/20162853?u=0b87aae95ee906ef2cb80e9b489f55f59098ad33&v=4",
     "location": null
   },
+  {},
   {
     "login": "misolori",
     "name": "Miguel Solorio",
