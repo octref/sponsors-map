@@ -340,7 +340,11 @@ export const sponsorsData: Sponsor[] = [
     "login": "J-Sek",
     "name": null,
     "avatarUrl": "https://avatars.githubusercontent.com/u/20162853?u=0b87aae95ee906ef2cb80e9b489f55f59098ad33&v=4",
-    "location": null
+    "location": "Gdańsk, Poland",
+    "geoCode": [
+      18.63333,
+      54.36667
+    ]
   },
   {},
   {
