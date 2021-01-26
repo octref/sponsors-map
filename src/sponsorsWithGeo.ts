@@ -301,16 +301,6 @@ export const sponsorsData: Sponsor[] = [
   },
   {},
   {
-    "login": "jackkoppa",
-    "name": "Jack Koppa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14101491?u=71b50c7674305e44c0f2f81ac6ad58c0d36ba20f&v=4",
-    "location": "Washington, D.C.",
-    "geoCode": [
-      -77.0366,
-      38.895
-    ]
-  },
-  {
     "login": "elena-cz",
     "name": null,
     "avatarUrl": "https://avatars.githubusercontent.com/u/14916431?u=0932140f2f3abcf05e95db8e2c6943e48144bbcb&v=4",
