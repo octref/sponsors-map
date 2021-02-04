@@ -243,7 +243,7 @@ export const sponsorsData: Sponsor[] = [
   {
     "login": "bencodezen",
     "name": "Ben Hong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4836334?u=100558c04272f2519ae594a509fd4f5ab7705746&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4836334?u=aacee61efe3325ef286398c8673d9f4bd473eb56&v=4",
     "location": "DC Metro Area",
     "geoCode": [
       -77.0366,
