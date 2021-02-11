@@ -79,16 +79,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "adrianthedev",
-    "name": "Adrian Marin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1334409?v=4",
-    "location": "Bucharest, Romania",
-    "geoCode": [
-      26.08333,
-      44.4
-    ]
-  },
-  {
     "login": "tillsanders",
     "name": "Till Sanders",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1533846?u=51e8e14291d1f219bbf18010308086219fe4008a&v=4",
