@@ -329,6 +329,16 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
+    "login": "nwohater",
+    "name": "Brandon Lackey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44684885?u=2f209d6b53af9da1c2a2d2aab9c79329b5f48ece&v=4",
+    "location": "Rancho Cucamonga, Ca.",
+    "geoCode": [
+      -117.5752,
+      34.1033
+    ]
+  },
+  {
     "login": "paul-a-byford",
     "name": null,
     "avatarUrl": "https://avatars.githubusercontent.com/u/46022174?v=4",
