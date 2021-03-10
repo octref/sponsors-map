@@ -201,8 +201,12 @@ export const sponsorsData: Sponsor[] = [
   {
     "login": "KrakerXyz",
     "name": null,
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3339029?v=4",
-    "location": null
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3339029?u=d4b81c8dd6e15045089aa7213be221f61550d3f5&v=4",
+    "location": "Cleveland, OH",
+    "geoCode": [
+      -81.6934,
+      41.5052
+    ]
   },
   {
     "login": "cuzox",
