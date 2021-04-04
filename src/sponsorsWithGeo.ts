@@ -321,6 +321,12 @@ export const sponsorsData: Sponsor[] = [
       43.6898878153
     ]
   },
+  {
+    "login": "manbalboy",
+    "name": "Jung Hun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23095198?u=d73f11884d23dbddc2b72c0a3221360e85c7b2e5&v=4",
+    "location": null
+  },
   {},
   {
     "login": "misolori",
