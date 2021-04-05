@@ -255,16 +255,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "poblouin",
-    "name": "Pierre-Olivier Blouin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7467410?u=0a52b420ebc39401d37f3200c73a041cf9faa376&v=4",
-    "location": "Montreal, Canada",
-    "geoCode": [
-      -73.554,
-      45.5088
-    ]
-  },
-  {
     "login": "yoyo930021",
     "name": "IU",
     "avatarUrl": "https://avatars.githubusercontent.com/u/9126398?u=74663065850f1cc54d1c9e7643d67b6e3b066697&v=4",
