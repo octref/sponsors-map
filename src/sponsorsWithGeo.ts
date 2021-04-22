@@ -225,16 +225,6 @@ export const sponsorsData: Sponsor[] = [
     "location": null
   },
   {
-    "login": "dmorosinotto",
-    "name": "Daniele Morosinotto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3982050?u=6dad862010effda99bc63dfb4aea73ad22962917&v=4",
-    "location": "Italy",
-    "geoCode": [
-      12.6463610364431,
-      42.5041539170675
-    ]
-  },
-  {
     "login": "bencodezen",
     "name": "Ben Hong",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4836334?u=aacee61efe3325ef286398c8673d9f4bd473eb56&v=4",
