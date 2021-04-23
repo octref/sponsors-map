@@ -245,6 +245,16 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
+    "login": "ssc-hrep3",
+    "name": "Sebastian Schrepfer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8961647?u=52b19c73b4e896f46d4b17ba3c52ccb2b2aa2ee2&v=4",
+    "location": "Zurich, Switzerland",
+    "geoCode": [
+      8.54,
+      47.37861
+    ]
+  },
+  {
     "login": "yoyo930021",
     "name": "IU",
     "avatarUrl": "https://avatars.githubusercontent.com/u/9126398?u=74663065850f1cc54d1c9e7643d67b6e3b066697&v=4",
