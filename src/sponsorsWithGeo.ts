@@ -21,10 +21,10 @@ export const sponsorsData: Sponsor[] = [
     "login": "orta",
     "name": "Orta Therox",
     "avatarUrl": "https://avatars.githubusercontent.com/u/49038?u=0b9ac5bf42a8ea2543a05191e150e0213456744e&v=4",
-    "location": "Huddersfield / NYC, US",
+    "location": "Huddersfield / NYC / Dublin",
     "geoCode": [
-      -73.993015,
-      40.74798
+      -74.010415,
+      40.704139
     ]
   },
   {
