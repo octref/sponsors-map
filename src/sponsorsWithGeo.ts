@@ -287,7 +287,7 @@ export const sponsorsData: Sponsor[] = [
   {
     "login": "knowsuchagency",
     "name": "Stephan Fitzpatrick",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11974795?u=8a1fa950f22b8de8fc24ce59026c2529bf679094&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11974795?u=f8d593c8e68dbbac616dffbf311f5f8fa81a40f5&v=4",
     "location": "San Francisco",
     "geoCode": [
       -122.463,
@@ -319,6 +319,16 @@ export const sponsorsData: Sponsor[] = [
     "geoCode": [
       -71.5783054333969,
       43.6898878153
+    ]
+  },
+  {
+    "login": "Roger-Heathcote",
+    "name": "Roger Heathcote",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19187207?u=0f00858936b889abf6be99be01f9a45819ab4d2b&v=4",
+    "location": "London",
+    "geoCode": [
+      -0.12764739999999997,
+      51.507321899999994
     ]
   },
   {
