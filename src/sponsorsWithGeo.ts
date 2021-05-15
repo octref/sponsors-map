@@ -338,6 +338,7 @@ export const sponsorsData: Sponsor[] = [
     "location": null
   },
   {},
+  {},
   {
     "login": "misolori",
     "name": "Miguel Solorio",
