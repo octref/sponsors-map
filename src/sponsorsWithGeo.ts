@@ -139,16 +139,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "ThreeScreenStudios",
-    "name": "Thomas W",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1919777?v=4",
-    "location": "Washington DC",
-    "geoCode": [
-      -77.0366,
-      38.895
-    ]
-  },
-  {
     "login": "isidorn",
     "name": "Isidor Nikolic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1926584?u=0f9b92385f12b48397edd87f48a951d21b4fa054&v=4",
