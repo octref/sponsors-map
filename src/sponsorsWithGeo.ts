@@ -199,12 +199,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "lukaw3d",
-    "name": "Luka Jeran",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3758846?v=4",
-    "location": null
-  },
-  {
     "login": "bencodezen",
     "name": "Ben Hong",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4836334?u=aacee61efe3325ef286398c8673d9f4bd473eb56&v=4",
