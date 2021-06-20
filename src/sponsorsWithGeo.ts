@@ -89,16 +89,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "jardakotesovec",
-    "name": "Jarda Kotěšovec",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1590681?u=a31a460096a8851891de3b9b60f7ed87fa39f98c&v=4",
-    "location": "Olomouc, Czech Republic",
-    "geoCode": [
-      17.26028,
-      49.59611
-    ]
-  },
-  {
     "login": "robokozo",
     "name": "John",
     "avatarUrl": "https://avatars.githubusercontent.com/u/1719221?u=b5739798ee9a3d713f5ca3bd3d6a086c13d229a3&v=4",
