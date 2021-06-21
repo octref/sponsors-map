@@ -266,16 +266,6 @@ export const sponsorsData: Sponsor[] = [
     "location": null
   },
   {
-    "login": "LukeJS",
-    "name": "Luke",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17252963?v=4",
-    "location": "United Kingdom",
-    "geoCode": [
-      -2.36966957036279,
-      54.2379333607472
-    ]
-  },
-  {
     "login": "agritheory",
     "name": "Tyler Matteson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/18033666?u=39f0ea46d9bfaed13d4583bb770e323d9040e231&v=4",
