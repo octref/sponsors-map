@@ -260,11 +260,22 @@ export const sponsorsData: Sponsor[] = [
   },
   {},
   {
+    "login": "AlexOmey",
+    "name": "Alexandre Omeyer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13919988?u=9f941f9c4e5c261914d086f923c8c7697909f739&v=4",
+    "location": "London",
+    "geoCode": [
+      -0.12764739999999997,
+      51.507321899999994
+    ]
+  },
+  {
     "login": "elena-cz",
     "name": null,
     "avatarUrl": "https://avatars.githubusercontent.com/u/14916431?u=0932140f2f3abcf05e95db8e2c6943e48144bbcb&v=4",
     "location": null
   },
+  {},
   {
     "login": "agritheory",
     "name": "Tyler Matteson",
