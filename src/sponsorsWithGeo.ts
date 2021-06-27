@@ -37,7 +37,6 @@ export const sponsorsData: Sponsor[] = [
       35.6652065
     ]
   },
-  {},
   {
     "login": "yyx990803",
     "name": "Evan You",
@@ -126,16 +125,6 @@ export const sponsorsData: Sponsor[] = [
     "geoCode": [
       10,
       53.55
-    ]
-  },
-  {
-    "login": "isidorn",
-    "name": "Isidor Nikolic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1926584?u=0f9b92385f12b48397edd87f48a951d21b4fa054&v=4",
-    "location": "Zurich",
-    "geoCode": [
-      8.54,
-      47.37861
     ]
   },
   {
