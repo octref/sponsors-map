@@ -150,7 +150,7 @@ export const sponsorsData: Sponsor[] = [
   {
     "login": "joshua1988",
     "name": "Captain Pangyo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3272748?u=25f925a2c4873f3a10512f022c96965bff780ce2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/3272748?u=d4e351a42cd08dd47b05c9ce6e6c8f2c885b04e2&v=4",
     "location": "South Korea",
     "geoCode": [
       128.168944342317,
