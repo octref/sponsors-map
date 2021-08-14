@@ -218,6 +218,16 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
+    "login": "bighugedave",
+    "name": "David Ayres",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9482996?u=83ad5396d62686e0c0e67e6d60bc54cc36980898&v=4",
+    "location": "Michigan",
+    "geoCode": [
+      -84.525239999781,
+      44.93374589245
+    ]
+  },
+  {
     "login": "AngeloCicero",
     "name": "Angelo Cicero",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10821534?u=188f2e5cdbe9a1d40483eddd34934322e1b6b88b&v=4",
