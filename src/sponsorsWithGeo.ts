@@ -333,5 +333,6 @@ export const sponsorsData: Sponsor[] = [
     "avatarUrl": "https://avatars.githubusercontent.com/u/65611025?u=e493519292be6bbf86b21a504f2920be9cca6e50&v=4",
     "location": null
   },
+  {},
   {}
 ]
