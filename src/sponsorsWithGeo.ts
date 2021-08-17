@@ -148,16 +148,6 @@ export const sponsorsData: Sponsor[] = [
     ]
   },
   {
-    "login": "joshua1988",
-    "name": "Captain Pangyo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3272748?u=d4e351a42cd08dd47b05c9ce6e6c8f2c885b04e2&v=4",
-    "location": "South Korea",
-    "geoCode": [
-      128.168944342317,
-      36.5362364654109
-    ]
-  },
-  {
     "login": "KrakerXyz",
     "name": null,
     "avatarUrl": "https://avatars.githubusercontent.com/u/3339029?u=d4b81c8dd6e15045089aa7213be221f61550d3f5&v=4",
