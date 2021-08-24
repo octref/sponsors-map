@@ -249,6 +249,16 @@ export const sponsorsData: Sponsor[] = [
   },
   {},
   {
+    "login": "fimion",
+    "name": "Alex Riviere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13134182?v=4",
+    "location": "Atlanta, GA",
+    "geoCode": [
+      -84.3902,
+      33.7491
+    ]
+  },
+  {
     "login": "elena-cz",
     "name": null,
     "avatarUrl": "https://avatars.githubusercontent.com/u/14916431?u=0932140f2f3abcf05e95db8e2c6943e48144bbcb&v=4",
