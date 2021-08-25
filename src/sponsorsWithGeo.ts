@@ -237,16 +237,6 @@ export const sponsorsData: Sponsor[] = [
       83.6625
     ]
   },
-  {
-    "login": "knowsuchagency",
-    "name": "Stephan Fitzpatrick",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11974795?u=f8d593c8e68dbbac616dffbf311f5f8fa81a40f5&v=4",
-    "location": "San Francisco",
-    "geoCode": [
-      -122.463,
-      37.7648
-    ]
-  },
   {},
   {
     "login": "fimion",
