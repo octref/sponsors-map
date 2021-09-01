@@ -278,6 +278,12 @@ export const sponsorsData: Sponsor[] = [
   {},
   {},
   {
+    "login": "shushkek",
+    "name": null,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34088579?v=4",
+    "location": null
+  },
+  {
     "login": "misolori",
     "name": "Miguel Solorio",
     "avatarUrl": "https://avatars.githubusercontent.com/u/35271042?u=8f024c5f095071ca9493635cc7ddcd171adf5be5&v=4",
